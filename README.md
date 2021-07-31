@@ -1,6 +1,6 @@
-# Hi, I am Ganesh Hegde
+# Hi 🙋‍♂️, I am Ganesh Hegde
 
-I am an android developer from bangalore, India and currently working at news technology servies - A premier development center of NewsCorp as a Mobile appliation developer. I specialise in creating android apps for mobile, Tablets and TV using java and kotlin.
+I am an android developer from bangalore, India and currently working at news technology servies - A premier development center of NewsCorp as a Mobile appliation developer. I specialise in creating android apps for mobile, Tablets and TV using java and kotlin. I have worked on different projects using multiple architectures which helped developers as well as business 🚀 .
 
 I am passionate about 
 * Android app development 📱
@@ -18,7 +18,7 @@ I am passionate about
 
 ### Fun facts 🍿:
 
-I am a big fan of anime and manga. I also spend my time in reading novels and watching netflix📺. Nowadsys I also started to take interests in stock markets. 
+I am a big fan of anime and manga. I also spend my time in reading novels and watching netflix🎥. Nowadays I also started to learn stock markets 🔥 . 
 
 ### Known Languages 😇:
 
@@ -28,7 +28,7 @@ I am a big fan of anime and manga. I also spend my time in reading novels and wa
 
 ### Known tools and technologies 🧑‍💻: 
 
-|<a><img src="https://github.com/iamganeshhegde/ganesh-hegde/blob/main/icons/android-1.jpeg" width="150"></a>|<a><img src="https://github.com/iamganeshhegde/ganesh-hegde/blob/main/icons/espresso.jpeg" width="100"></a>|<a><img src="https://github.com/iamganeshhegde/ganesh-hegde/blob/main/icons/appcenter.jpg" width="100"></a>|<a><img src="https://github.com/iamganeshhegde/ganesh-hegde/blob/main/icons/circleci.png" width="100"></a>|<a><img src="https://github.com/iamganeshhegde/ganesh-hegde/blob/main/icons/rxjava.png" width="100"></a>|<a><img src="https://github.com/iamganeshhegde/ganesh-hegde/blob/main/icons/postman.png" width="100"></a>|
-|--|--|--|--|--|--|
+|<a><img src="https://github.com/iamganeshhegde/ganesh-hegde/blob/main/icons/android-1.jpeg" width="150"></a>|<a><img src="https://github.com/iamganeshhegde/ganesh-hegde/blob/main/icons/espresso.jpeg" width="100"></a>|<a><img src="https://github.com/iamganeshhegde/ganesh-hegde/blob/main/icons/appcenter.jpg" width="100"></a>|<a><img src="https://github.com/iamganeshhegde/ganesh-hegde/blob/main/icons/circleci.png" width="100"></a>|<a><img src="https://github.com/iamganeshhegde/ganesh-hegde/blob/main/icons/rxjava.png" width="100"></a>|<a><img src="https://github.com/iamganeshhegde/ganesh-hegde/blob/main/icons/postman.png" width="100"></a>|<a><img src="https://github.com/iamganeshhegde/iamganeshhegde/blob/main/icons/jira.png" width="100"></a>|<a><img src="https://github.com/iamganeshhegde/iamganeshhegde/blob/main/icons/newrelic.png" width="100"></a>|<a><img src="https://github.com/iamganeshhegde/iamganeshhegde/blob/main/icons/firebase.png" width="120"></a>|
+|--|--|--|--|--|--|--|--|--|
 
 
