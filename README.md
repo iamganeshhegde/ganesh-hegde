@@ -10,7 +10,7 @@ As it is an evergrowing journey with new technologies, I would like to learn as 
 
 
 ### I am passionate about 
-* Android app development 📱
+* Android app development.📱
 * Java
 * Kotlin
 * Building CI/CD pipelines for better distribution of apps.
@@ -25,7 +25,7 @@ As it is an evergrowing journey with new technologies, I would like to learn as 
 
 ### Fun facts 🍿:
 
-I am a big fan of anime and manga. I also spend my time in reading novels and watching netflix🎥. Nowadays I also started to learn stock markets 🔥 . 
+I am a big fan of anime and manga. I also spend my time in reading novels and watching netflix🎥. Nowadays I also started learning stock markets nowadays🔥 . 
 
 ### Known Languages 😇:
 
