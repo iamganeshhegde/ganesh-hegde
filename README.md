@@ -6,7 +6,7 @@ I specialise in creating android apps for mobile, Tablets and TV using java and 
 
 I have worked on different projects using multiple architectures which helped developers as well as business 🚀 . 
 
-As it is an evergrowing journey with new technologies, I would like to learn as many new things as possible and up to date with the current trends 💻.
+As it is an evergrowing journey with new technologies, I would like to learn as many new things as possible and be up to date with the current trends 💻.
 
 
 ### I am passionate about 
@@ -25,7 +25,7 @@ As it is an evergrowing journey with new technologies, I would like to learn as 
 
 ### Fun facts 🍿:
 
-I am a big fan of anime and manga🎭. I also spend my time in reading novels and watching netflix 📽. video Nowadays I also started learning stock markets 💰  . 
+I am a big fan of anime and manga 🎭. I also spend my time in reading novels and watching netflix 📽. video Nowadays I also started learning stock markets 💰  . 
 
 ### Known Languages 😇:
 
