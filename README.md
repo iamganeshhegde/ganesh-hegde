@@ -4,9 +4,9 @@ I am an android developer from bangalore, India and currently working at news te
 
 I specialise in creating android apps for mobile, Tablets and TV using java and kotlin. 
 
-I have worked on different projects using multiple architectures which helped developers as well as business 🚀 . 
+I have worked on different projects using multiple architectures which helped developers as well as business. 🚀 
 
-As it is an evergrowing journey with new technologies, I would like to learn as many new things as possible and be up to date with the current trends 💻.
+As it is an evergrowing journey with new technologies, I would like to learn as many new things as possible and be up to date with the current trends. 💻
 
 
 ### I am passionate about 
