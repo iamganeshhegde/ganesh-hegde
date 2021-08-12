@@ -2,7 +2,7 @@
 
 I am an android developer from bangalore, India and currently working at news technology servies - A premier development center of NewsCorp as a Mobile appliation developer. 
 
-I specialise in creating android apps for mobile, Tablets and TV using java and kotlin. 
+I specialise in creating android apps for mobile, Tablets and TV using java and kotlin. 📲
 
 I have worked on different projects using multiple architectures which helped developers as well as business. 🚀 
 
