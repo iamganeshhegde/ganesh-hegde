@@ -9,6 +9,7 @@ I have worked on different projects using multiple architectures which helped de
 As it is an evergrowing journey with new technologies, I would like to learn as many new things as possible and be up to date with the current trends. 💻
 
 
+
 ### I am passionate about 
 * Android app development.📱
 * Java
@@ -17,15 +18,18 @@ As it is an evergrowing journey with new technologies, I would like to learn as 
 * Solving real world problems with coding.🧑‍💻
 
 
+
 ### Where to find me 👀:
 
 <a href="https://www.linkedin.com/in/ganesh-hegde-061085151/"><img src="https://github.com/iamganeshhegde/ganesh-hegde/blob/main/icons/in.png" width="100"></a>|<a href="https://medium.com/@iamganeshhegde"><img src="https://github.com/iamganeshhegde/ganesh-hegde/blob/main/icons/medium.jpg" width="120"></a>|<a href="https://twitter.com/imGaneshHegde"><img src="https://github.com/iamganeshhegde/ganesh-hegde/blob/main/icons/twit.png" width="100"></a>
 |--|--|--|
 
 
+
 ### Fun facts 🍿:
 
 I am a big fan of anime and manga 🎭. I also spend my time in reading novels and watching netflix 📽. Nowadays I am learning stock markets as well. 💰  
+
 
 ### Known Languages 😇:
 
