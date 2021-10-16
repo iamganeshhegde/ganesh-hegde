@@ -21,7 +21,7 @@ As it is an evergrowing journey with new technologies, I would like to learn as 
 
 ### Where to find me 👀 :
 
-<a href="https://www.linkedin.com/in/ganesh-hegde-061085151/"><img src="https://github.com/iamganeshhegde/ganesh-hegde/blob/main/icons/in.png" width="100"></a>|<a href="https://medium.com/@iamganeshhegde"><img src="https://github.com/iamganeshhegde/ganesh-hegde/blob/main/icons/medium.jpg" width="120"></a>|<a href="https://twitter.com/imGaneshHegde"><img src="https://github.com/iamganeshhegde/ganesh-hegde/blob/main/icons/twit.png" width="100"></a>|<a href="https://leetcode.com/iamganeshhegde/"><img src="https://github.com/iamganeshhegde/ganesh-hegde/blob/main/icons/twit.png" width="100"></a>
+<a href="https://www.linkedin.com/in/ganesh-hegde-061085151/"><img src="https://github.com/iamganeshhegde/ganesh-hegde/blob/main/icons/in.png" width="100"></a>|<a href="https://medium.com/@iamganeshhegde"><img src="https://github.com/iamganeshhegde/ganesh-hegde/blob/main/icons/medium.jpg" width="120"></a>|<a href="https://twitter.com/imGaneshHegde"><img src="https://github.com/iamganeshhegde/ganesh-hegde/blob/main/icons/twit.png" width="100"></a>|<a href="https://leetcode.com/iamganeshhegde/"><img src="https://github.com/iamganeshhegde/iamganeshhegde/blob/main/icons/leet.png" width="100"></a>
 |--|--|--|--|
 
 
