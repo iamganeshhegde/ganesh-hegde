@@ -12,8 +12,8 @@ As it is an evergrowing journey with new technologies, I would like to learn as 
 
 ### I am passionate about :
 * Android app development.📱
-* Java
-* Kotlin
+* Java.
+* Kotlin.
 * Building CI/CD pipelines for better distribution of apps.
 * Solving real world problems with coding.🧑‍💻
 
