@@ -28,7 +28,7 @@ As it is an evergrowing journey with new technologies, I would like to learn as 
 
 ### Fun facts 🍿 :
 
-I am a big fan of anime and manga 🎭. I also spend my time in reading novels and watching netflix 📽.  Nowadays I am learning stock markets as well. 💰  
+I am a big fan of anime and manga 🎭. I also spend my time in reading novels and watching netflix 📽.  Nowadays I am learning stock markets and crypto as well. 💰  
 
 
 ### Known Languages 😇 :
