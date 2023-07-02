@@ -18,6 +18,16 @@ As it is an evergrowing journey with new technologies, I would like to learn as 
 * Solving real world problems with coding.🧑‍💻
 
 
+### Apps I worked on 👀 :
+
+<a href="https://www.linkedin.com/in/ganesh-hegde-061085151/"><img src="https://github.com/iamganeshhegde/ganesh-hegde/blob/main/icons/in.png" width="100"></a>|<a href="https://medium.com/@iamganeshhegde"><img src="https://github.com/iamganeshhegde/ganesh-hegde/blob/main/icons/medium.jpg" width="120"></a>|<a href="https://leetcode.com/iamganeshhegde/"><img src="https://github.com/iamganeshhegde/iamganeshhegde/blob/main/icons/leet.png" width="100"></a>|<a href="https://stackoverflow.com/users/17260953/ganesh-hegde"><img src="https://github.com/iamganeshhegde/iamganeshhegde/blob/main/icons/stack.png" width="100"></a>|<a href="https://twitter.com/imGaneshHegde"><img src="https://github.com/iamganeshhegde/ganesh-hegde/blob/main/icons/twit.png" width="100"></a>
+|--|--|--|--|--|
+
+
+### Fun facts 🍿 :
+
+I am a big fan of anime and manga 🎭. I also spend my time in reading novels and watching netflix 📽.  Nowadays I am learning stock markets and crypto as well. 💰  
+
 
 
 ### Where to find me 👀 :
@@ -26,10 +36,6 @@ As it is an evergrowing journey with new technologies, I would like to learn as 
 |--|--|--|--|--|
 
 
-
-### Fun facts 🍿 :
-
-I am a big fan of anime and manga 🎭. I also spend my time in reading novels and watching netflix 📽.  Nowadays I am learning stock markets and crypto as well. 💰  
 
 
 ### Known Languages 😇 :
