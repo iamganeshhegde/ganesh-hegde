@@ -20,7 +20,7 @@ As it is an evergrowing journey with new technologies, I would like to learn as 
 
 ### Apps I worked on 👀 :
 
-<a href="https://play.google.com/store/apps/details?id=com.loyalty.android"><img src="https://github.com/iamganeshhegde/ganesh-hegde/blob/main/icons/in.png" width="100"></a>|<a href="https://play.google.com/store/apps/details?id=com.asianpaints.dbu.digital.colourwithasianpaints"><img src="https://github.com/iamganeshhegde/ganesh-hegde/blob/main/icons/medium.jpg" width="120"></a>|<a href="https://leetcode.com/iamganeshhegde/"><img src="https://github.com/iamganeshhegde/iamganeshhegde/blob/main/icons/leet.png" width="100"></a>|<a href="https://play.google.com/store/apps/details?id=uk.co.thesun.mobile"><img src="https://github.com/iamganeshhegde/iamganeshhegde/blob/main/icons/stack.png" width="100"></a>|<a href="https://play.google.com/store/apps/details?id=in.mohalla.video"><img src="https://github.com/iamganeshhegde/ganesh-hegde/blob/main/icons/twit.png" width="100"></a>
+<a href="https://play.google.com/store/apps/details?id=com.loyalty.android"><img src="https://github.com/iamganeshhegde/ganesh-hegde/blob/main/icons/payback-image.jpg" width="100"></a>|<a href="https://play.google.com/store/apps/details?id=com.asianpaints.dbu.digital.colourwithasianpaints"><img src="https://github.com/iamganeshhegde/ganesh-hegde/blob/main/icons/asian-paints.png.jpg" width="120"></a>|<a href="https://play.google.com/store/apps/details?id=uk.co.thesun.mobile"><img src="https://github.com/iamganeshhegde/iamganeshhegde/blob/main/icons/the-sun.png" width="100"></a>|<a href="https://play.google.com/store/apps/details?id=in.mohalla.video"><img src="https://github.com/iamganeshhegde/ganesh-hegde/blob/main/icons/moj.jpeg.png" width="100"></a>
 |--|--|--|--|--|
 
 
