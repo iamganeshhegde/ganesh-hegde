@@ -41,8 +41,8 @@ I am a big fan of anime and manga 🎭. I also spend my time in reading novels a
 
 ### Known Languages 😇 :
 
-|<a><img src="https://github.com/iamganeshhegde/ganesh-hegde/blob/main/icons/java.png" width="100"></a>|<a><img src="https://github.com/iamganeshhegde/ganesh-hegde/blob/main/icons/kotlin.png" width="100"></a>|
-|--|--|
+|<a><img src="https://github.com/iamganeshhegde/ganesh-hegde/blob/main/icons/java.png" width="100"></a>|<a><img src="https://github.com/iamganeshhegde/ganesh-hegde/blob/main/icons/kotlin.png" width="100"></a>|<a><img src="https://github.com/iamganeshhegde/ganesh-hegde/blob/main/icons/yaml.jpg" width="100"></a>|
+|--|--|--|
 
 
 ### Known tools and technologies 🧑‍💻 : 
