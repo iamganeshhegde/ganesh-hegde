@@ -33,7 +33,7 @@ I am a big fan of anime and manga 🎭. I also spend my time in reading novels a
 
 ### Where to find me 👀 :
 
-<a href="https://www.linkedin.com/in/ganesh-hegde-061085151/"><img src="https://github.com/iamganeshhegde/ganesh-hegde/blob/main/icons/in.png" width="100"></a>|<a href="https://medium.com/@iamganeshhegde"><img src="https://github.com/iamganeshhegde/ganesh-hegde/blob/main/icons/medium.jpg" width="120"></a>|<a href="https://leetcode.com/iamganeshhegde/"><img src="https://github.com/iamganeshhegde/iamganeshhegde/blob/main/icons/leet.png" width="100"></a>|<a href="https://stackoverflow.com/users/17260953/ganesh-hegde"><img src="https://github.com/iamganeshhegde/iamganeshhegde/blob/main/icons/stack.png" width="100"></a>|<a href="https://twitter.com/imGaneshHegde"><img src="https://github.com/iamganeshhegde/ganesh-hegde/blob/main/icons/twit.png" width="100"></a>
+<a href="https://www.linkedin.com/in/ganesh-hegde-061085151/"><img src="https://github.com/iamganeshhegde/ganesh-hegde/blob/main/icons/in.png" width="100"></a>|<a href="https://medium.com/@iamganeshhegde"><img src="https://github.com/iamganeshhegde/ganesh-hegde/blob/main/icons/medium.jpg" width="150"></a>|<a href="https://leetcode.com/iamganeshhegde/"><img src="https://github.com/iamganeshhegde/iamganeshhegde/blob/main/icons/leet.png" width="140"></a>|<a href="https://stackoverflow.com/users/17260953/ganesh-hegde"><img src="https://github.com/iamganeshhegde/iamganeshhegde/blob/main/icons/stack.png" width="100"></a>|<a href="https://twitter.com/imGaneshHegde"><img src="https://github.com/iamganeshhegde/ganesh-hegde/blob/main/icons/twit.png" width="100"></a>
 |--|--|--|--|--|
 
 
@@ -47,12 +47,12 @@ I am a big fan of anime and manga 🎭. I also spend my time in reading novels a
 
 ### Known tools and technologies 🧑‍💻 : 
 
-|<a><img src="https://github.com/iamganeshhegde/ganesh-hegde/blob/main/icons/android-1.jpeg" width="150"></a>|<a><img src="https://github.com/iamganeshhegde/ganesh-hegde/blob/main/icons/espresso.jpeg" width="100"></a>|<a><img src="https://github.com/iamganeshhegde/ganesh-hegde/blob/main/icons/maestero.webp" width="150"></a>|<a><img src="https://github.com/iamganeshhegde/ganesh-hegde/blob/main/icons/compose.png" width="150"></a>|<a><img src="https://github.com/iamganeshhegde/ganesh-hegde/blob/main/icons/appcenter.jpg" width="100"></a>|<a><img src="https://github.com/iamganeshhegde/ganesh-hegde/blob/main/icons/circleci.png" width="100"></a>|<a><img src="https://github.com/iamganeshhegde/ganesh-hegde/blob/main/icons/teamcity.png" width="150"></a>|
-|--|--|--|--|--|--|--|
-
-
-
-|<a><img src="https://github.com/iamganeshhegde/ganesh-hegde/blob/main/icons/rxjava.png" width="150"></a>|<a><img src="https://github.com/iamganeshhegde/ganesh-hegde/blob/main/icons/postman.png" width="100"></a>|<a><img src="https://github.com/iamganeshhegde/iamganeshhegde/blob/main/icons/jira.png" width="100"></a>|<a><img src="https://github.com/iamganeshhegde/iamganeshhegde/blob/main/icons/newrelic.png" width="100"></a>|<a><img src="https://github.com/iamganeshhegde/iamganeshhegde/blob/main/icons/firebase-1.png" width="120"></a>|
+|<a><img src="https://github.com/iamganeshhegde/ganesh-hegde/blob/main/icons/android-1.jpeg" width="150"></a>|<a><img src="https://github.com/iamganeshhegde/ganesh-hegde/blob/main/icons/maestero.webp" width="150"></a>|<a><img src="https://github.com/iamganeshhegde/ganesh-hegde/blob/main/icons/compose.png" width="150"></a>|<a><img src="https://github.com/iamganeshhegde/ganesh-hegde/blob/main/icons/teamcity.png" width="150"></a>|<a><img src="https://github.com/iamganeshhegde/ganesh-hegde/blob/main/icons/rxjava.png" width="150"></a>|
 |--|--|--|--|--|
+
+
+
+|<a><img src="https://github.com/iamganeshhegde/ganesh-hegde/blob/main/icons/espresso.jpeg" width="100"></a>|<a><img src="https://github.com/iamganeshhegde/ganesh-hegde/blob/main/icons/circleci.png" width="100"></a>|<a><img src="https://github.com/iamganeshhegde/ganesh-hegde/blob/main/icons/appcenter.jpg" width="100"></a>|<a><img src="https://github.com/iamganeshhegde/ganesh-hegde/blob/main/icons/postman.png" width="120"></a>|<a><img src="https://github.com/iamganeshhegde/iamganeshhegde/blob/main/icons/jira.png" width="100"></a>|<a><img src="https://github.com/iamganeshhegde/iamganeshhegde/blob/main/icons/newrelic.png" width="120"></a>|<a><img src="https://github.com/iamganeshhegde/iamganeshhegde/blob/main/icons/firebase-1.png" width="140"></a>|
+|--|--|--|--|--|--|--|
 
 
