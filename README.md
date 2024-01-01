@@ -1,6 +1,6 @@
 # Hi 🙋‍♂️, I am Ganesh Hegde
 
-I am an android developer from bangalore, India and currently working at news technology servies - A premier development center of NewsCorp as a Mobile Appliation developer. 
+I am an android developer from bangalore, India and currently working at one of the top Indian startup Sharechat as a Mobile Appliation developer. 
 
 I specialise in creating android apps for mobile, Tablets and TV using java and kotlin. 📲
 
