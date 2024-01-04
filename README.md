@@ -8,12 +8,14 @@ I have worked on different projects using multiple architectures which helped de
 
 As it is an evergrowing journey with new technologies, I would like to learn as many new things as possible and be up to date with the current trends. 💻
 
+Currently I have been using Jetpack Compose, MQTT and orbit MVI for the current app Moj and Moj Live app which is used by 150 mn+ users.
 
 
 ### I am passionate about :
 * Android app development.📱
 * Java.
 * Kotlin.
+* Jetpack Compose
 * Building CI/CD pipelines for better distribution of apps.
 * Solving real world problems with coding.🧑‍💻
 * Working on improving app performances and make app smoother.
