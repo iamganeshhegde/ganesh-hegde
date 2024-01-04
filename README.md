@@ -8,7 +8,7 @@ I have worked on different projects using multiple architectures which helped de
 
 As it is an evergrowing journey with new technologies, I would like to learn as many new things as possible and be up to date with the current trends. 💻
 
-Currently I have been using Jetpack Compose, MQTT and orbit MVI for the current app Moj and Moj Live app which is used by 150 mn+ users.
+Currently I have been using Jetpack Compose, MQTT and orbit MVI for the current app Moj and Moj Live app which is used by 150 mn+ users. :dizzy:
 
 
 ### I am passionate about :
