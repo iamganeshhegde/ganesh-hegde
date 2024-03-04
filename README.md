@@ -1,6 +1,6 @@
 # Hi 🙋‍♂️, I am Ganesh Hegde
 
-I am an android developer from bangalore, India and currently working at one of the top Indian startup Sharechat as a Mobile Appliation developer. 
+I am an android developer from bangalore, India and currently working at one of the top Indian startup Sharechat as a Mobile Appliation developer.
 
 I specialise in creating android apps for mobile, Tablets and TV using java and kotlin. 📲
 
@@ -15,7 +15,7 @@ Currently I have been using Jetpack Compose, MQTT and orbit MVI for the current 
 * Android app development.📱
 * Java.
 * Kotlin.
-* Jetpack Compose
+* Jetpack Compose.
 * Building CI/CD pipelines for better distribution of apps.
 * Solving real world problems with coding.🧑‍💻
 * Working on improving app performances and make app smoother.
