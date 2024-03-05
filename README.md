@@ -18,7 +18,7 @@ Currently I have been using Jetpack Compose, MQTT and orbit MVI for the current 
 * Jetpack Compose.
 * Building CI/CD pipelines for better distribution of apps.
 * Solving real world problems with coding.🧑‍💻
-* Working on improving app performances and make app smoother.
+* Working on improving app performances and make app smoother..
 
 
 ### Apps I worked on 👀 :
